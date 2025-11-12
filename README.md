@@ -78,5 +78,3 @@ The project is based on the **CLEAR Corpus (CommonLit Ease of Readability)**, wh
 GitHub: [BL-IMPO](https://github.com/BL-IMPO)
 
 ---
-
-Would you like me to add a short “How to use” section (with an example code snippet that predicts readability for a sample text)? It would make your repo more practical for visitors.
